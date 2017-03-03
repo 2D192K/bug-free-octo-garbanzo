@@ -1,2 +1,4 @@
 # bug-free-octo-garbanzo
-Test repository for random projects
+
+This is a place for test projects and ideas.
+
